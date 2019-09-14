@@ -16,7 +16,7 @@ export const App = () => {
     <div className="App">
       <h1 className="Header">React Wars</h1>
       
-    </div
+    </div>
     
   )
     
